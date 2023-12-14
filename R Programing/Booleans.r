@@ -9,3 +9,14 @@ if (a > b) {
 } else{ 
     print("b is greater than a")
 }
+
+# Opreators
+
+
+a <- 190
+a <<- 190
+901 -> b 
+901 ->> b 
+b
+a
+
